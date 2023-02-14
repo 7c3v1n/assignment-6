@@ -331,7 +331,7 @@ footer{
     width: 80%;
 }
 
-.tail{
+.footer-container{
     min-width: 1109;
     height: 1px;
     background: rgba(188, 208, 229, 0.496913);
@@ -354,7 +354,7 @@ footer{
     list-style: none;
 }
 
-.tail-box{
+.f-container{
     width: 325px;
     height: 48px;
     background: #FFFFFF;
